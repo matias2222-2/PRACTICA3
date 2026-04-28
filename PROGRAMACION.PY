@@ -9,6 +9,12 @@ while numero != numero_secreto:
     intentos+=1
 
 if numero <numero_secreto:
-    print(el numero es mayor)
+    print("el numero es mayor")
 else:
-    print(el numero es menor)
+    print("el numero es menor")
+
+    numero = int(input("proba de nuevo"))
+    intentos += 1
+
+    
+
