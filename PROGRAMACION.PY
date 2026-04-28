@@ -15,6 +15,9 @@ else:
 
     numero = int(input("proba de nuevo"))
     intentos += 1
+    
+    print(¡adivinate el numero¡)
+    print(cantidad de intentos,intentos)
 
     
 
